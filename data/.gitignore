@@ -1,0 +1,16 @@
+# Entornos virtuales
+venv/
+.venv/
+env/
+
+# Cache de Python
+__pycache__/
+*.pyc
+
+# IDEs / Editores
+.vscode/
+.idea/
+
+# SO
+.DS_Store
+Thumbs.db
